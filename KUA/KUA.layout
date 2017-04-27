@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="main.cpp" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="98" topLine="3" />
+		</Cursor>
+		<Folding>
+			<Collapse line="24" />
+			<Collapse line="39" />
+			<Collapse line="435" />
+		</Folding>
+	</File>
+	<File name="kua.h" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="828" topLine="31" />
+		</Cursor>
+	</File>
+	<File name="kua.cpp" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="17273" topLine="118" />
+		</Cursor>
+		<Folding>
+			<Collapse line="2" />
+			<Collapse line="15" />
+			<Collapse line="29" />
+			<Collapse line="36" />
+			<Collapse line="43" />
+			<Collapse line="71" />
+			<Collapse line="99" />
+			<Collapse line="127" />
+			<Collapse line="155" />
+			<Collapse line="179" />
+			<Collapse line="204" />
+			<Collapse line="214" />
+			<Collapse line="224" />
+			<Collapse line="256" />
+			<Collapse line="290" />
+			<Collapse line="305" />
+			<Collapse line="321" />
+			<Collapse line="484" />
+			<Collapse line="592" />
+			<Collapse line="700" />
+		</Folding>
+	</File>
+</CodeBlocks_layout_file>
