@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1488549121 source:d:\campus\09. analisis struktur data\tubes\kua\kua.cpp
+	"kua.h"
+
+1488549115 d:\campus\09. analisis struktur data\tubes\kua\kua.h
+	<stdio.h>
+	<conio.h>
+	<iostream>
+	<stdlib.h>
+	<string>
+
+1488549824 source:d:\campus\09. analisis struktur data\tubes\kua\main.cpp
+	"kua.h"
+
+1490523630 source:d:\campus\09. analisis struktur data\tubes\kua fix + skema list + cara penggunaan\kua fix + skema list + cara penggunaan\kua\kua.cpp
+	"kua.h"
+
+1490521858 d:\campus\09. analisis struktur data\tubes\kua fix + skema list + cara penggunaan\kua fix + skema list + cara penggunaan\kua\kua.h
+	<stdio.h>
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<string>
+
+1490523377 source:d:\campus\09. analisis struktur data\tubes\kua fix + skema list + cara penggunaan\kua fix + skema list + cara penggunaan\kua\main.cpp
+	"kua.h"
+
+1493261082 source:d:\campus\09. analisis struktur data\tubes\kua fix\program aplikasi\kua\kua.cpp
+	"kua.h"
+
+1490523970 d:\campus\09. analisis struktur data\tubes\kua fix\program aplikasi\kua\kua.h
+	<stdio.h>
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<string>
+
+1493261057 source:d:\campus\09. analisis struktur data\tubes\kua fix\program aplikasi\kua\main.cpp
+	"kua.h"
+
